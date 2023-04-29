@@ -8,4 +8,4 @@ The process of creating this product involves utilizing several technologies, sp
 
 In order to complete the development of this product, several additional technologies were also utilized, including Node JS, Express JS, and MongoDB. Node JS and Express JS were employed to create the backend of the application, while MongoDB was selected as the database management system. With these technologies, the product is equipped to effectively manage state and data on both the front-end and back-end.
 
-![dashboardimg](./src/assets/mernDashboard.png)
+![dashboardimg](./README.md)
